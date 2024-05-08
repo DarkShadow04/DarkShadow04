@@ -10,7 +10,7 @@
 
 📝 I regularly write articles on https://arfortech.wordpress.com/
 
-📫 How to reach me dark04shadow97@gmail.com
+📫 How to reach me #Secret
 
 ⚡ Fun fact If you give a hacker😈 a new toy, the first thing he'll do is take it apart ⚙ to figure out how it works.😎
 
