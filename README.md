@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=darkshadow04&amp;label=Profile%20views&amp;color=701A3D&amp;style=flat" alt="Profile views for Dark_Shadow04">
 </p>
 
-> ⚡ **Fun fact:** If you give a hacker 😈 a new toy, the first thing they’ll do is take it apart ⚙ to figure out how it works. 😎
+<p align="center">
+  <img src="assets/fun-facts.svg" alt="Rotating cybersecurity fun facts about curiosity, debugging, and security" width="100%">
+</p>
 
 <p align="center">
   <img src="assets/section-about.svg" alt="Burgundy technical panel — profile signal" width="100%">
