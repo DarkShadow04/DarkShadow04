@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="78" viewBox="0 0 1200 78" role="img" aria-labelledby="footer-title">
+  <title id="footer-title">Burgundy orbit and signal line</title>
+  <defs>
+    <linearGradient id="footer-signal" x1="0" x2="1"><stop stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#C77B9B"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+    <style>@media (prefers-reduced-motion:reduce){.footer-motion{display:none}}</style>
+  </defs>
+  <path d="M0 39H1200" stroke="url(#footer-signal)" stroke-width="1"/>
+  <g fill="none" stroke="#C77B9B" stroke-opacity=".55"><circle cx="600" cy="39" r="17"/><ellipse cx="600" cy="39" rx="46" ry="11" transform="rotate(-18 600 39)"/></g>
+  <circle class="footer-motion" cx="637" cy="29" r="2.5" fill="#E5B5C7"><animateMotion dur="9s" repeatCount="indefinite" path="M0 0C-15-20-39-8-38 10S-10 27 0 0"/></circle>
+</svg>

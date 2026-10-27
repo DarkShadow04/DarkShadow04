@@ -1,22 +1,50 @@
-<h1 align="center">Hi 👋, I'm Dark_Shadow04</h1> <h3 align="center">Penetration Tester and Cyber Security researcher with a passion for security architecture, SOC, Red Team activity. Seeks opportunity to reach new cybersecurity standards and achieve operational goals.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkshadow04&label=Profile%20views&color=0e75b6&style=flat" alt="darkshadow04" /> </p> 
+<p align="center">
+  <img src="assets/darkshadow-hero.svg" alt="Dark_Shadow04 — Penetration Tester and Cyber Security researcher with a passion for security architecture, SOC, Red Team activity. Seeks opportunity to reach new cybersecurity standards and achieve operational goals." width="100%">
+</p>
 
-<br>
-🔭 I’m interested in cybersecurity and Information Technology<br>
-<br>
+<p align="center">
+  <a href="https://github.com/DarkShadow04">GitHub profile</a>
+  &nbsp;·&nbsp;
+  <a href="https://cybergodoo7.wordpress.com/">Website</a>
+</p>
 
-🌱 I’m currently learning advanced programming concepts and AI development 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darkshadow04&amp;label=Profile%20views&amp;color=701A3D&amp;style=flat" alt="Profile views for Dark_Shadow04">
+</p>
 
-👯 I’m looking to collaborate on pentesting scripts and documentations
+> ⚡ **Fun fact:** If you give a hacker 😈 a new toy, the first thing they’ll do is take it apart ⚙ to figure out how it works. 😎
 
-👨‍💻 All of my projects are available at https://github.com/DarkShadow04
+## About
 
-📝 I regularly write articles on https://arfortech.wordpress.com/
+Penetration Tester and Cyber Security researcher with a passion for security architecture, SOC, Red Team activity. Seeks opportunity to reach new cybersecurity standards and achieve operational goals.
 
-📫 How to reach me #Secret
+## Selected projects
 
-⚡ Fun fact If you give a hacker😈 a new toy, the first thing he'll do is take it apart ⚙ to figure out how it works.😎
+| Project | Description |
+| --- | --- |
+| [ShadowNexus](https://github.com/DarkShadow04/ShadowNexus) | Website management framework for hosting, workspaces, tunnels, diagnostics, and recovery. |
+| [Nmap Auto V2](https://github.com/DarkShadow04/Nmap_Auto_V2) | Nmap scanning automation with reporting options. |
+| [Dark Console](https://github.com/DarkShadow04/Dark_Console) | VirusTotal analysis script. |
+| [AbuseLPDB](https://github.com/DarkShadow04/AbuseLPDB) | Scans IP addresses through the AbuseLPDB API and writes results to a file. |
+| [Security Header Checker](https://github.com/DarkShadow04/sec-head) | Checks for missing security headers and provides solutions. |
 
-<h3 align="left">Connect with me:</h3> <p align="left"> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<br>
+## GitHub stats and most used languages
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarkShadow04&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=10070C&amp;title_color=E5B5C7&amp;text_color=F8F0F3&amp;icon_color=C77B9B&amp;ring_color=701A3D&amp;custom_title=Dark_Shadow04%20%7C%20GitHub%20Stats&amp;border_radius=12" alt="Live GitHub stats for Dark_Shadow04">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkShadow04&amp;layout=compact&amp;hide_border=true&amp;bg_color=10070C&amp;title_color=E5B5C7&amp;text_color=F8F0F3&amp;border_radius=12&amp;langs_count=6" alt="Most used languages in Dark_Shadow04's public repositories">
+</p>
 
+Stats and language cards use public repositories. The card service is best-effort and may occasionally rate-limit requests.
+
+## GitHub contributions
+
+Live contribution calendar for [DarkShadow04](https://github.com/DarkShadow04), rendered from public GitHub activity. No totals, rankings, or streak claims are added.
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/701A3D/DarkShadow04" alt="Live GitHub contribution calendar for DarkShadow04" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/darkshadow-footer.svg" alt="Burgundy orbit and signal line" width="100%">
+</p>
