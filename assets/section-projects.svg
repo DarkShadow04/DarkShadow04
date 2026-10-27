@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="86" viewBox="0 0 1200 86" role="img" aria-labelledby="projects-title projects-desc">
+  <title id="projects-title">02 — Project index</title>
+  <desc id="projects-desc">A burgundy technical panel with a fine grid and linked-node geometry.</desc>
+  <defs>
+    <linearGradient id="projects-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset=".58" stop-color="#351023"/><stop offset="1" stop-color="#451126"/></linearGradient>
+    <pattern id="projects-grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#E5B5C7" stroke-opacity=".09"/></pattern>
+    <linearGradient id="projects-line" x1="0" x2="1"><stop stop-color="#701A3D"/><stop offset=".52" stop-color="#E5B5C7"/><stop offset="1" stop-color="#701A3D"/></linearGradient>
+  </defs>
+  <rect width="1200" height="86" rx="10" fill="url(#projects-bg)"/><rect width="1200" height="86" rx="10" fill="url(#projects-grid)"/>
+  <path d="M0 1H1200M0 85H1200" stroke="#C77B9B" stroke-opacity=".32"/><path d="M30 22h22M30 22v42M1170 64h-22M1170 64V22" fill="none" stroke="#E5B5C7" stroke-opacity=".62"/>
+  <text x="70" y="34" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="11" letter-spacing="4">PROJECT INDEX · 02</text>
+  <path d="M70 56H490" stroke="#701A3D" stroke-width="2"/><path d="M70 56H490" stroke="url(#projects-line)" stroke-width="2" stroke-dasharray="80 760"><animate attributeName="stroke-dashoffset" from="0" to="-840" dur="14s" repeatCount="indefinite"/></path>
+  <g fill="none" stroke="#E5B5C7" stroke-opacity=".42"><path d="M1018 27l34 16-34 16-34-16zM1052 43h50M1018 27v32M984 43h-24"/><circle cx="1018" cy="27" r="3" fill="#C77B9B"/><circle cx="1052" cy="43" r="3" fill="#E5B5C7"/><circle cx="1018" cy="59" r="3" fill="#C77B9B"/><circle cx="1102" cy="43" r="3" fill="#C77B9B"/></g>
+</svg>

@@ -14,9 +14,17 @@
 
 > ⚡ **Fun fact:** If you give a hacker 😈 a new toy, the first thing they’ll do is take it apart ⚙ to figure out how it works. 😎
 
+<p align="center">
+  <img src="assets/section-about.svg" alt="Burgundy technical panel — profile signal" width="100%">
+</p>
+
 ## About
 
 Penetration Tester and Cyber Security researcher with a passion for security architecture, SOC, Red Team activity. Seeks opportunity to reach new cybersecurity standards and achieve operational goals.
+
+<p align="center">
+  <img src="assets/section-projects.svg" alt="Burgundy technical panel — project index" width="100%">
+</p>
 
 ## Selected projects
 
@@ -28,6 +36,10 @@ Penetration Tester and Cyber Security researcher with a passion for security arc
 | [AbuseLPDB](https://github.com/DarkShadow04/AbuseLPDB) | Scans IP addresses through the AbuseLPDB API and writes results to a file. |
 | [Security Header Checker](https://github.com/DarkShadow04/sec-head) | Checks for missing security headers and provides solutions. |
 
+<p align="center">
+  <img src="assets/section-stats.svg" alt="Burgundy technical panel — public repository signals" width="100%">
+</p>
+
 ## GitHub stats and most used languages
 
 <p align="center">
@@ -36,6 +48,10 @@ Penetration Tester and Cyber Security researcher with a passion for security arc
 </p>
 
 Stats and language cards use public repositories. The card service is best-effort and may occasionally rate-limit requests.
+
+<p align="center">
+  <img src="assets/section-activity.svg" alt="Burgundy technical panel — contribution activity" width="100%">
+</p>
 
 ## GitHub contributions
 

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="86" viewBox="0 0 1200 86" role="img" aria-labelledby="about-title about-desc">
+  <title id="about-title">01 — Profile signal</title>
+  <desc id="about-desc">A burgundy technical panel with a fine grid and restrained orbital signal.</desc>
+  <defs>
+    <linearGradient id="about-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset=".58" stop-color="#2A0D1A"/><stop offset="1" stop-color="#451126"/></linearGradient>
+    <pattern id="about-grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#E5B5C7" stroke-opacity=".09"/></pattern>
+    <linearGradient id="about-line" x1="0" x2="1"><stop stop-color="#701A3D"/><stop offset=".52" stop-color="#E5B5C7"/><stop offset="1" stop-color="#701A3D"/></linearGradient>
+  </defs>
+  <rect width="1200" height="86" rx="10" fill="url(#about-bg)"/><rect width="1200" height="86" rx="10" fill="url(#about-grid)"/>
+  <path d="M0 1H1200M0 85H1200" stroke="#C77B9B" stroke-opacity=".32"/>
+  <path d="M30 22h22M30 22v42M1170 64h-22M1170 64V22" fill="none" stroke="#E5B5C7" stroke-opacity=".62"/>
+  <text x="70" y="34" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="11" letter-spacing="4">PROFILE SIGNAL · 01</text>
+  <path d="M70 56H490" stroke="#701A3D" stroke-width="2"/><path d="M70 56H490" stroke="url(#about-line)" stroke-width="2" stroke-dasharray="80 760"><animate attributeName="stroke-dashoffset" from="0" to="-840" dur="14s" repeatCount="indefinite"/></path>
+  <circle cx="1050" cy="43" r="24" fill="none" stroke="#E5B5C7" stroke-opacity=".22"/><circle cx="1050" cy="43" r="34" fill="none" stroke="#C77B9B" stroke-opacity=".2" stroke-dasharray="2 7"/>
+  <ellipse cx="1050" cy="43" rx="62" ry="22" transform="rotate(-20 1050 43)" fill="none" stroke="#C77B9B" stroke-opacity=".38" stroke-dasharray="35 340"><animate attributeName="stroke-dashoffset" from="0" to="-375" dur="18s" repeatCount="indefinite"/></ellipse>
+</svg>
