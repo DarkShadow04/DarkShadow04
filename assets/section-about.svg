@@ -10,7 +10,7 @@
   <path d="M0 1H1200M0 85H1200" stroke="#C77B9B" stroke-opacity=".32"/>
   <path d="M30 22h22M30 22v42M1170 64h-22M1170 64V22" fill="none" stroke="#E5B5C7" stroke-opacity=".62"/>
   <text x="70" y="34" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="11" letter-spacing="4">PROFILE SIGNAL · 01</text>
-  <path d="M70 56H490" stroke="#701A3D" stroke-width="2"/><path d="M70 56H490" stroke="url(#about-line)" stroke-width="2" stroke-dasharray="80 760"><animate attributeName="stroke-dashoffset" from="0" to="-840" dur="14s" repeatCount="indefinite"/></path>
+  <path d="M70 56H490" stroke="#701A3D" stroke-width="2"/><path d="M70 56H490" stroke="url(#about-line)" stroke-opacity=".34" stroke-width="7" stroke-dasharray="92 328"><animate attributeName="stroke-dashoffset" from="0" to="-420" dur="4.8s" repeatCount="indefinite"/></path><path d="M70 56H490" stroke="url(#about-line)" stroke-width="2" stroke-dasharray="92 328"><animate attributeName="stroke-dashoffset" from="0" to="-420" dur="4.8s" repeatCount="indefinite"/></path>
   <circle cx="1050" cy="43" r="24" fill="none" stroke="#E5B5C7" stroke-opacity=".22"/><circle cx="1050" cy="43" r="34" fill="none" stroke="#C77B9B" stroke-opacity=".2" stroke-dasharray="2 7"/>
-  <ellipse cx="1050" cy="43" rx="62" ry="22" transform="rotate(-20 1050 43)" fill="none" stroke="#C77B9B" stroke-opacity=".38" stroke-dasharray="35 340"><animate attributeName="stroke-dashoffset" from="0" to="-375" dur="18s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="1050" cy="43" rx="62" ry="22" transform="rotate(-20 1050 43)" fill="none" stroke="#C77B9B" stroke-opacity=".55" stroke-width="1.6" stroke-dasharray="54 336"><animate attributeName="stroke-dashoffset" from="0" to="-390" dur="8s" repeatCount="indefinite"/></ellipse>
 </svg>

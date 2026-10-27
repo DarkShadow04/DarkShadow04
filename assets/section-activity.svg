@@ -9,7 +9,7 @@
   <rect width="1200" height="86" rx="10" fill="url(#activity-bg)"/><rect width="1200" height="86" rx="10" fill="url(#activity-grid)"/>
   <path d="M0 1H1200M0 85H1200" stroke="#C77B9B" stroke-opacity=".32"/><path d="M30 22h22M30 22v42M1170 64h-22M1170 64V22" fill="none" stroke="#E5B5C7" stroke-opacity=".62"/>
   <text x="70" y="34" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="11" letter-spacing="4">CONTRIBUTION ACTIVITY · 04</text>
-  <path d="M70 56H490" stroke="#701A3D" stroke-width="2"/><path d="M70 56H490" stroke="url(#activity-line)" stroke-width="2" stroke-dasharray="80 760"><animate attributeName="stroke-dashoffset" from="0" to="-840" dur="14s" repeatCount="indefinite"/></path>
+  <path d="M70 56H490" stroke="#701A3D" stroke-width="2"/><path d="M70 56H490" stroke="url(#activity-line)" stroke-opacity=".34" stroke-width="7" stroke-dasharray="92 328"><animate attributeName="stroke-dashoffset" from="0" to="-420" dur="4.8s" repeatCount="indefinite"/></path><path d="M70 56H490" stroke="url(#activity-line)" stroke-width="2" stroke-dasharray="92 328"><animate attributeName="stroke-dashoffset" from="0" to="-420" dur="4.8s" repeatCount="indefinite"/></path>
   <circle cx="1050" cy="43" r="26" fill="none" stroke="#E5B5C7" stroke-opacity=".2"/><circle cx="1050" cy="43" r="36" fill="none" stroke="#C77B9B" stroke-opacity=".2" stroke-dasharray="2 7"/>
   <path d="M1003 43h94M1050 17v52" stroke="#E5B5C7" stroke-opacity=".16"/><circle cx="1050" cy="43" r="4" fill="#E5B5C7"><animate attributeName="opacity" values=".45;1;.45" dur="3s" repeatCount="indefinite"/></circle>
 </svg>
