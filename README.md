@@ -45,11 +45,11 @@ Penetration Tester and Cyber Security researcher with a passion for security arc
 ## GitHub stats and most used languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarkShadow04&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=10070C&amp;title_color=E5B5C7&amp;text_color=F8F0F3&amp;icon_color=C77B9B&amp;ring_color=701A3D&amp;custom_title=Dark_Shadow04%20%7C%20GitHub%20Stats&amp;border_radius=12" alt="Live GitHub stats for Dark_Shadow04">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkShadow04&amp;layout=compact&amp;hide_border=true&amp;bg_color=10070C&amp;title_color=E5B5C7&amp;text_color=F8F0F3&amp;border_radius=12&amp;langs_count=6" alt="Most used languages in Dark_Shadow04's public repositories">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=DarkShadow04&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=10070C&amp;title_color=E5B5C7&amp;text_color=F8F0F3&amp;icon_color=C77B9B&amp;ring_color=701A3D&amp;custom_title=Dark_Shadow04%20%7C%20GitHub%20Stats&amp;border_radius=12" alt="Live GitHub stats for Dark_Shadow04">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DarkShadow04&amp;layout=compact&amp;hide_border=true&amp;bg_color=10070C&amp;title_color=E5B5C7&amp;text_color=F8F0F3&amp;border_radius=12&amp;langs_count=6" alt="Most used languages in Dark_Shadow04's public repositories">
 </p>
 
-Stats and language cards use public repositories. The card service is best-effort and may occasionally rate-limit requests.
+Stats and language cards use public repository data and are rendered by the stats-organization GitHub Stats Extended service.
 
 <p align="center">
   <img src="assets/section-activity.svg" alt="Burgundy technical panel — contribution activity" width="100%">
